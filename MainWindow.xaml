@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="First Hello" Height="180" Width="300">
     <Grid>
-        <Label Content="Hello XAML" HorizontalAlignment="Left" Margin="108,67,0,0" VerticalAlignment="Top"
+        <Label Content="Hello XAML" HorizontalAlignment="Left" Margin="95,60,0,0" VerticalAlignment="Top"
                 Background="Red"/>
 
     </Grid>
