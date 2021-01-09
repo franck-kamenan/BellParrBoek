@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:First_Hello"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="First Hello" Height="180" Width="300">
     <Grid>
-        <Label Content="Hello XAML" HorizontalAlignment="Left" Margin="396,212,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hello XAML" HorizontalAlignment="Left" Margin="108,67,0,0" VerticalAlignment="Top"
+                Background="Red"/>
 
     </Grid>
 </Window>
