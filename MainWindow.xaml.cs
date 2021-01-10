@@ -28,6 +28,7 @@ namespace First_Hello
         private void testButton_Click(object sender, RoutedEventArgs e)
         {
             resultLabel.Content = "Hello World";
+            nameLabel.Content = "Franck";
         }
     }
 }
