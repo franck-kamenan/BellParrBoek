@@ -32,5 +32,10 @@ namespace First_Hello
 
             MessageBox.Show("Hello World");
         }
+
+        private void byeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("goodbye cruel world.");
+        }
     }
 }
