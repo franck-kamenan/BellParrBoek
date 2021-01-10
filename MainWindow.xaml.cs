@@ -29,6 +29,8 @@ namespace First_Hello
         {
             resultLabel.Content = "Hello World";
             nameLabel.Content = "Franck";
+
+            MessageBox.Show("Hello World");
         }
     }
 }
