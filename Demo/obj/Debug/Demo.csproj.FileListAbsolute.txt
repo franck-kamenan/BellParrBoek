@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\bin\Debug\Demo.exe.config
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\bin\Debug\Demo.exe
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\bin\Debug\Demo.pdb
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\MainWindow.g.cs
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\App.g.cs
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\MainWindow.baml
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.g.resources
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.exe
+C:\Users\franc\Desktop\CsharpBoek\First Hello\Demo\obj\Debug\Demo.pdb
