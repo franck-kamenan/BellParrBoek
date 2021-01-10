@@ -24,5 +24,10 @@ namespace First_Hello
         {
             InitializeComponent();
         }
+
+        private void testButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
