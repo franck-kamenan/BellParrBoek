@@ -27,7 +27,19 @@ namespace First_Drawing
 
         private void drawButton_Click(object sender, RoutedEventArgs e)
         {
+            Rectangle rect1 = new Rectangle();
+            rect1.Width = 100;
+            rect1.Height = 50;
+            rect1.Margin = new Thickness(10, 10, 0, 0);
+            rect1.Stroke = new SolidColorBrush(Colors.Black);
+            paperCanvas.Children.Add(rect1);
 
+            Rectangle rect2 = new Rectangle();
+            rect2.Width = 100;
+            rect2.Height = 100;
+            rect2.Margin = new Thickness(10, 75, 0, 0);
+            rect2.Stroke = new SolidColorBrush(Colors.Black);
+            paperCanvas.Children.Add(rect2);
         }
     }
 }
