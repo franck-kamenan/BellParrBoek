@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\bin\Debug\TextBox.exe
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\bin\Debug\TextBox.pdb
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\MainWindow.g.cs
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\App.g.cs
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\MainWindow.baml
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.g.resources
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.exe
+C:\Users\franc\Desktop\CsharpBoek\First Hello\TextBox\obj\Debug\TextBox.pdb
